@@ -1,0 +1,10 @@
+Record=TopLevelDocument|FileName=EEPROM&RTC.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=EEPROM&RTC.SchDoc|FileName=ISO_CAN2.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=EEPROM&RTC.SchDoc|FileName=Led RGB.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=EEPROM&RTC.SchDoc|FileName=MCU.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=EEPROM&RTC.SchDoc|FileName=MCU_compnts.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=EEPROM&RTC.SchDoc|FileName=Relays_channels.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=EEPROM&RTC.SchDoc|FileName=Supply.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=EEPROM&RTC.SchDoc|FileName=TMPT_LTC_1.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=EEPROM&RTC.SchDoc|FileName=USART.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=EEPROM&RTC.SchDoc|FileName=uSD.SchDoc|SheetNumber=7
